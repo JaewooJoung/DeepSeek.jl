@@ -1,5 +1,5 @@
 name = "DeepSeek"
-uuid = "043911e8-1ed4-411e-9b5a-2156b49e87ad"  # ← Replace with your generated UUID
+uuid = "043911e8-1ed4-411e-9b5a-2156b49e87ad"
 authors = ["jaewoo.joung@outlook.com"]
 version = "0.1.0"
 
