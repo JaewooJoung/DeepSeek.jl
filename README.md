@@ -190,16 +190,3 @@ MIT License - Free for academic and commercial use.
 Built with <img src="https://julialang.org/assets/infra/logo.svg" height="20"/> · Need help? Open an issue!
 </div>
 ```
-
-Key differences from Claude.jl:
-1. **Model Focus**: Highlights DeepSeek-specific models
-2. **Simpler Tooling**: No tools/function calling (unless added later)
-3. **Streaming Ready**: Includes placeholder for streaming API
-4. **Token Limits**: Reflects DeepSeek's 128K context
-5. **API Structure**: Matches DeepSeek's response format
-
-Would you like me to add:
-- [ ] Detailed rate limit handling
-- [ ] File upload examples
-- [ ] Async request patterns
-- [ ] Benchmarking section?
