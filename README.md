@@ -1,4 +1,3 @@
-Here's your **DeepSeek.jl** README.md, structured similarly to your Claude.jl version but tailored for DeepSeek's API:
 
 ```markdown
 # 🤖 DeepSeek.jl
