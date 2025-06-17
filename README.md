@@ -2,7 +2,7 @@
 ```julia
  using DeepSeek;client = DeepSeekClient();response = chat(client, "Make the Vivrant README.jl for my DeepSeek.jl ");println(response.choices[1].message.content)
 ```
-Do not be too dependent to AI but use it as if it is your assistant.   
+## Do not be too dependent to AI but use it as if it is your assistant.   
 
 ```markdown
 # 🤖 DeepSeek.jl
