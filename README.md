@@ -2,7 +2,7 @@
 ```julia
  using DeepSeek;client = DeepSeekClient();response = chat(client, "Make the Vivrant README.jl for my DeepSeek.jl ");println(response.choices[1].message.content)
 ```
-## AI use is common these days—no need to be shy, but don't get too cocky about it either. 😉 (Lessons Learned by making this very code.) 
+## AI use is common these days—no need to be shy, but don't get too cocky about it either. 😉 (Lessons Learned by making this very "README") 
 
 ```markdown
 # 🤖 DeepSeek.jl
