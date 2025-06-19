@@ -1,13 +1,6 @@
-## The initial structure of this README.md was generated with assistance from DeepSeek AI using the following Julia code:
-```julia
- using DeepSeek;client = DeepSeekClient();response = chat(client, "Make the Vivrant README.jl for my DeepSeek.jl ");println(response.choices[1].message.content)
-```
-## AI use is common these days—no need to be shy, but don't get too cocky about it either. 😉 (Lessons Learned by making this very "README") 
 
 ```markdown
 # 🤖 DeepSeek.jl
-
-> *Powerful AI models, now in Julia!* 
 
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
